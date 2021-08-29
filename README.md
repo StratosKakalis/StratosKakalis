@@ -1,4 +1,4 @@
-Hi, I’m @StratosKakalis
+Hi, I’m @StratosKakalis and 
 I like making games!
 I’m looking to collaborate on Game Dev related projects, and software development in general :).
 
